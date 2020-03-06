@@ -32,8 +32,8 @@ SOFTWARE.
 
 ## Included in this Package
  * Bootstrap 3.3.7
- * Font Awesome 4.7.0
+ * Font Awesome 5.12.1 (solid, regular, brands)
  * jQuery v1.12.4
- * Roboto Regular and Bold
+ * Roboto Typeface
  * Apache Server Configs v3.0.0
  
